@@ -1,7 +1,7 @@
 ### Heey 👋
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working on Html, CSS and JS.
 - 🌱 I’m currently study at AJOU university in Tashkent
-- 🤔 I’m looking for help with C#
+- 🤔 I’m looking for help with C
 - 📫 How to reach me: https://instagram.com/_mirakmal_?utm_medium=copy_link
 
 <!--
